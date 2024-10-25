@@ -22,7 +22,7 @@ This should work on any Linux distribution that uses GRUB, but I have only teste
 
 ## Install
 ```bash
-git clone https://github.com/AllJavi/tartarus-grub.git
+git clone https://github.com/PolyCatDev/tartarus-grub.git
 cd tartarus-grub
 sudo cp tartarus -r /usr/share/grub/themes/
 sudo vim /etc/default/grub
